@@ -63,8 +63,6 @@ header nav a {
 
 /* input_styling */
 input {
-
-    border-width: px;
     margin-top: 30px;
     border-radius: 5px;
     padding: 14px 16px;
@@ -72,10 +70,10 @@ input {
 
 .short {
     width: 200px;
+    height: 25px;
 }
 
 .long {
-    border-width: px;
     margin-top: 30px;
     border-radius: 5px;
     width: 450px;
